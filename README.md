@@ -47,6 +47,7 @@ pip install -r dependencias.txt
 
 - Execute o script principal:
 ```bash
+python verificaCepUnico.py
 ```
 
 ## Estrutura do repositório
