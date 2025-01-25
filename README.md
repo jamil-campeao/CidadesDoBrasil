@@ -5,6 +5,9 @@ Este projeto foi desenvolvido para resolver um problema específico: criar uma p
 
 A solução encontrada foi criar um script em Python que integrasse a API da ViaCEP para validar os CEPs de cada município e identificar quais possuem CEP único.
 
+# Licença
+Este projeto está licenciado sob a [MIT License](https://github.com/jamil-campeao/CidadesDoBrasil/blob/main/LICENSE)
+
 ## Processo de Desenvolvimento
 1. Base de Dados Inicial:
 - Utilizei a planilha dos múnicipios de Michel Herszenhau como base inicial. Fonte: https://terminaldeinformacao.com/2019/01/12/tabela-com-lista-de-ceps-do-brasil/
