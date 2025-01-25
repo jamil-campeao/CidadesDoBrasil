@@ -59,5 +59,12 @@ python verificaCepUnico.py
 - Script SQL para inserção desses dados em um banco de dados.
 - Base de dados organizada e pronta para utilização em aplicações futuras.
 
+# Contribuições
+Contribuições são sempre bem-vindas!
+Se você tem ideias para melhorar o projeto, encontrou algum problema ou deseja compartilhar feedbacks e críticas construtivas, fique à vontade para abrir uma issue ou enviar um pull request.
 
+Vamos construir algo ainda melhor juntos!
 
+## Autor
+- Jamil Luiz da Silva Campeão
+- Linkedin: https://www.linkedin.com/in/jamilcampeao/
